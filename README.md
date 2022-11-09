@@ -1,1 +1,5 @@
-# CPNT200-A1
+## Summary:
+
+### I have chosen to provide the website **Gymshark** (https://ca.gymshark.com/?gclid=CjwKCAjwtp2bBhAGEiwAOZZTuGc3ckAi_m6WGzwrkDqwuKQRqFq62ymvGbarN34yEd4hJ8gLSkJKNBoCdpYQAvD_BwE&gclsrc=aw.ds) This brand sells athletic wear. Which would make its main targeted audience be people that like to play sports, go to the gym, and people that like to be active outside etc. This company solves many problems for our society, by selling there items at a more reasonable price, so we can look good and feel good about ourselves by getting new outfits to do our activities that keep us healthy. Rather than companys like Addidas and Nike selling items at crazy high prices. Gymshark is there to provide you with fair prices without breaking your bank and keeping your health up to par with amazing looking outfits. These days it's a lot about influencers and styles, and that's what **Gymsharks** main goal is, to make a stylish unique workout clothing brand, that is a good price and looks attractive to people which is very benificial and solves many problems for people.
+
+### Possible Improvements To The Site:
